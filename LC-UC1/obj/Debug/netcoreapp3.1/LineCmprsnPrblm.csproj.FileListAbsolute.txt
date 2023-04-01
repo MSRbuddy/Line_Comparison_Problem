@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\bin\Debug\netcoreapp3.1\LineCmprsnPrblm.exe
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\bin\Debug\netcoreapp3.1\LineCmprsnPrblm.deps.json
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\bin\Debug\netcoreapp3.1\LineCmprsnPrblm.runtimeconfig.json
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\bin\Debug\netcoreapp3.1\LineCmprsnPrblm.runtimeconfig.dev.json
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\bin\Debug\netcoreapp3.1\LineCmprsnPrblm.dll
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\bin\Debug\netcoreapp3.1\LineCmprsnPrblm.pdb
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\obj\Debug\netcoreapp3.1\LineCmprsnPrblm.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\obj\Debug\netcoreapp3.1\LineCmprsnPrblm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\obj\Debug\netcoreapp3.1\LineCmprsnPrblm.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\obj\Debug\netcoreapp3.1\LineCmprsnPrblm.AssemblyInfo.cs
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\obj\Debug\netcoreapp3.1\LineCmprsnPrblm.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\obj\Debug\netcoreapp3.1\LineCmprsnPrblm.dll
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\obj\Debug\netcoreapp3.1\LineCmprsnPrblm.pdb
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\obj\Debug\netcoreapp3.1\LineCmprsnPrblm.genruntimeconfig.cache
