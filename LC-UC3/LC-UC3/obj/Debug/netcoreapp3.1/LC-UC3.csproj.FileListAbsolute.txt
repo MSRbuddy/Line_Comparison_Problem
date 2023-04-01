@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\LC-UC3\LC-UC3\bin\Debug\netcoreapp3.1\LC-UC3.exe
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\LC-UC3\LC-UC3\bin\Debug\netcoreapp3.1\LC-UC3.deps.json
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\LC-UC3\LC-UC3\bin\Debug\netcoreapp3.1\LC-UC3.runtimeconfig.json
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\LC-UC3\LC-UC3\bin\Debug\netcoreapp3.1\LC-UC3.runtimeconfig.dev.json
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\LC-UC3\LC-UC3\bin\Debug\netcoreapp3.1\LC-UC3.dll
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\LC-UC3\LC-UC3\bin\Debug\netcoreapp3.1\LC-UC3.pdb
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\LC-UC3\LC-UC3\obj\Debug\netcoreapp3.1\LC-UC3.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\LC-UC3\LC-UC3\obj\Debug\netcoreapp3.1\LC-UC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\LC-UC3\LC-UC3\obj\Debug\netcoreapp3.1\LC-UC3.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\LC-UC3\LC-UC3\obj\Debug\netcoreapp3.1\LC-UC3.AssemblyInfo.cs
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\LC-UC3\LC-UC3\obj\Debug\netcoreapp3.1\LC-UC3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\LC-UC3\LC-UC3\obj\Debug\netcoreapp3.1\LC-UC3.dll
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\LC-UC3\LC-UC3\obj\Debug\netcoreapp3.1\LC-UC3.pdb
+C:\Users\USER\source\repos\LineCmprsnPrblm\LineCmprsnPrblm\LC-UC3\LC-UC3\obj\Debug\netcoreapp3.1\LC-UC3.genruntimeconfig.cache
